@@ -1,0 +1,123 @@
+# Asphalt-Art-Project
+**code**
+  public void paintLampBody(){
+  setPaint(37);
+ //begins to paint the lamp body/post
+  turnRight();
+  move();
+  paint("ghostwhite");
+  move();
+  paint("ghostwhite");
+  move();
+  paint("gray");
+  move();
+  paint("ghostwhite");
+  move();
+  paint("ghostwhite");
+  turnRight();
+  move();
+  turnRight();
+  move();
+  paint("ghostwhite");
+  move();
+  paint("gray");
+  move();
+  turnLeft();
+  move();
+  turnLeft();
+  paint("ghostwhite");
+  move();
+  paint("gray");
+  move();
+  paint("ghostwhite");
+  move();
+  paint("ghostwhite");
+  turnRight();
+  move();
+  turnRight();
+  move();
+  paint("ghostwhite");
+  move();
+  paint("gray");
+  turnLeft();
+  move();
+  paintLine("gray", 3);
+  setPaint(21);
+  paint("gray");
+  turnLeft();
+  move();
+  paint("gray");
+  turnRight();
+  move();
+  paint("gray");
+  turnLeft();
+  move();
+  paint("gray");
+  turnAround();
+  move();
+  turnLeft();
+  move();
+  paint("ghostwhite");
+  //Paints lamp head
+  turnLeft();
+  move();
+  paint("gray");
+  move();
+  paint("gray");
+  move();
+  turnLeft();
+  move();
+  paint("gray");
+  turnRight();
+  move();
+  paint("gray");
+  turnLeft();
+  move();
+  paint("gray");
+  move();
+  paint("gray");
+  move();
+  turnRight();
+  move();
+  turnAround();
+  paint("gray");
+  move();
+  paint("thistle");
+  move();
+  paint("gray");
+  turnRight();
+  move();
+  turnRight();
+  paint("gray");
+  move();
+  paint("thistle");
+  move();
+  paint("gray");
+  turnLeft();
+  move();
+  turnLeft();
+  move();
+  paint("gray");
+  //paints the particles
+  move();
+  turnLeft();
+  move();
+  move();
+  move();
+  move();
+  paint("thistle");
+  turnLeft();
+  move();
+  move();
+  turnRight();
+  move();
+  paint("thistle");
+  move();
+  turnRight();
+  move();
+  paint("thistle");
+  
+  
+  
+  
+}
